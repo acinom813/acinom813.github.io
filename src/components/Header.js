@@ -12,7 +12,7 @@ function Header() {
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbar">
+        <div className="navbar-expand {-sm}" id="navbar">
           <div className="navbar-nav ml-auto mt-2 mt-lg-0">
             <Link to="/" className="links nav-link active" href="index.html">Home <span class="sr-only">(current)</span> </Link>
             <Link to="/portfolio"  className="links nav-link" href="portfolio.html">Portfolio</Link>
