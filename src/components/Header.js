@@ -5,7 +5,7 @@ import React from 'react';
 function Header() {
 
     return (
-      <nav className="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <nav className="navbar navbar-dark bg-dark fixed-top">
 
       <div className="container">
         <a className="navbar-brand logo" href="index.html">Monica R. Hill</a>
